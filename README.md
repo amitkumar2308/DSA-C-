@@ -70,7 +70,7 @@ Feel free to reach out if you’d like to discuss algorithms, share resources, o
 
 - Portfolio: [amitlinks.vercel.app](https://amitlinks.vercel.app)
 - Email: [amitkgupta2308@gmail.com](mailto:amitkgupta2308@gmail.com)
-- LinkedIn: [Amit Kumar](https://linkedin.com/in/amit-kumar)
+- LinkedIn: [Amit Kumar](https://linkedin.com/in/amitkumar-profile)
 
 ---
 
